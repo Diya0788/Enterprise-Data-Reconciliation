@@ -1,0 +1,16 @@
+{
+  "raw_log_records": 100000,
+  "error_log_records_excluded": 5098,
+  "non_error_log_records": 94902,
+  "parsed_valid_transactions": 94902,
+  "unparsed_non_error_records": 0,
+  "historical_user_records": 47464,
+  "distinct_users_in_database": 25000,
+  "latest_active_users": 14183,
+  "exchange_rate_days": 365,
+  "missing_exchange_rates_filled": 104,
+  "transactions_after_active_user_reconciliation": 53899,
+  "unique_active_customers_with_transactions": 13888,
+  "total_reconciled_usd_revenue": 148274622.91,
+  "processing_seconds": 3.951
+}
